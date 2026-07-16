@@ -1,94 +1,99 @@
 # AIMLAPI vs LLM Providers — SEO/AEO Content Strategy
 
-## Проект
+## Project
 
-Данный репозиторий содержит стратегию продвижения сравнительной статьи и landing page для AIMLAPI как платформы доступа к LLM API.
+This repository contains the SEO/AEO strategy for a comparison article and landing page about AIMLAPI as an AI API platform.
 
-Демо страницы:
+## Live Demo
 
-🌐 https://unified-llm-stream.lovable.app
-
-
-## Цель проекта
-
-Основная цель страницы — привлечь разработчиков и компании, которые ищут решения для работы с AI API, и конвертировать органический трафик в пользователей AIMLAPI.
-
-Стратегия направлена на:
-
-- привлечение SEO-трафика;
-- повышение видимости в AI-поиске (AEO);
-- рост аудитории разработчиков;
-- увеличение количества активаций API-ключей.
+🌐 https://unified-llm-stream.lovable.app/
 
 
-# 1. Где публиковать и почему
+# Project Goal
+
+The main goal of the page is to attract developers and companies searching for AI API solutions and convert organic traffic into AIMLAPI users.
+
+The strategy focuses on:
+
+- SEO traffic acquisition;
+- AI search visibility (AEO);
+- developer audience growth;
+- increasing API key activations.
 
 
-## Основная площадка — официальный блог AIMLAPI
-
-Основную версию статьи рекомендуется публиковать на собственном домене AIMLAPI.
-
-### Почему именно собственный блог:
-
-- SEO-авторитет и ссылочный вес остаются у компании.
-- Полный контроль над технической оптимизацией:
-  - Schema.org разметка;
-  - внутренняя перелинковка;
-  - meta title и description;
-  - структура страницы.
-- Статья становится центральным hub-контентом, на который могут ссылаться другие ресурсы.
-- Можно напрямую отслеживать конверсии через аналитику.
+# 1. Where to Publish and Why
 
 
-При этом статья должна сохранять объективный сравнительный стиль:
+## Primary Platform — AIMLAPI Official Blog (Owned Domain)
 
-- показывать преимущества AIMLAPI;
-- честно рассматривать альтернативы;
-- давать практическую пользу пользователю.
+The main version of the article should be published on the official AIMLAPI blog.
+
+## Why the owned domain:
+
+- SEO authority and link equity remain with the company website.
+- Full control over technical SEO:
+  - Schema.org structured data;
+  - internal linking;
+  - metadata;
+  - page structure.
+- The article becomes a central content hub that other resources can reference.
+- Traffic and conversions can be measured directly through analytics.
 
 
-Такой подход повышает доверие пользователей и соответствует принципам E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
+The article should maintain an objective comparison style:
+
+- highlight AIMLAPI advantages;
+- fairly evaluate competitors;
+- provide practical value for readers.
 
 
-# Дополнительные каналы распространения
+A balanced comparison improves user trust and supports E-E-A-T principles:
+
+- Experience;
+- Expertise;
+- Authoritativeness;
+- Trustworthiness.
 
 
-| Площадка | Формат | Цель |
+# Secondary Distribution Channels
+
+
+| Platform | Format | Goal |
 |---|---|---|
-| dev.to | Техническая адаптация статьи с canonical-ссылкой | Трафик разработчиков и дополнительные ссылки |
-| Medium | Упрощенная версия статьи | Дополнительный охват |
-| Reddit (AI/ML сообщества) | Участие в обсуждениях с полезными ответами | Качественный нишевый трафик |
-| Hacker News | Формат Show HN / техническое обсуждение | Всплеск внимания и естественные ссылки |
-| Гостевые публикации | Расширенные технические статьи | Рост авторитета домена |
+| dev.to | Technical adaptation with canonical link | Developer traffic and backlinks |
+| Medium | Simplified article version | Additional reach |
+| Reddit (AI/ML communities) | Helpful discussions and answers | Targeted niche traffic |
+| Hacker News | Show HN / technical discussion | Exposure and natural backlinks |
+| Guest posts | Extended technical articles | Domain authority growth |
 
 
-## Принцип распространения
+## Distribution Strategy
 
-Оригинальная статья остается на домене AIMLAPI.
+The original article should remain on the AIMLAPI domain.
 
-Внешние площадки используются для:
+External platforms should be used for:
 
-- привлечения новой аудитории;
-- получения обратных ссылок;
-- участия в сообществах разработчиков.
-
-
-Reddit и Hacker News не должны использоваться как рекламные каналы.
-
-Лучший подход:
-
-> участвовать в существующей дискуссии, отвечать на вопросы пользователей и давать ссылку на подробное сравнение только там, где это действительно полезно.
+- discovering new audiences;
+- generating backlinks;
+- engaging developer communities.
 
 
-# 2. SEO и AEO стратегия
+Reddit and Hacker News should not be treated as advertising channels.
+
+The effective approach:
+
+> Participate in existing discussions, answer user questions, and provide a link only when it adds real value.
 
 
-# Целевые поисковые запросы
+# 2. SEO and AEO Strategy
 
 
-## Основные коммерческие запросы
+# Target Search Queries
 
-Примеры:
+
+## Primary Commercial Queries
+
+Examples:
 
 - AIMLAPI vs OpenRouter
 - AIMLAPI vs Together AI
@@ -97,215 +102,246 @@ Reddit и Hacker News не должны использоваться как ре
 - LLM API aggregator comparison
 
 
-Эти запросы имеют высокий коммерческий потенциал, потому что пользователи уже находятся на этапе выбора инструмента.
+These queries have strong commercial intent because users are already evaluating AI API solutions.
 
 
+## Long-tail Queries
 
-# Почему статья может получить трафик
+Examples:
 
-
-## 1. Сравнительный контент естественно получает ссылки
-
-Статьи формата "A vs B" часто используются:
-
-- разработчиками при выборе технологий;
-- авторами технических обзоров;
-- участниками форумов и сообществ.
+- how to access multiple LLMs with one API
+- cheapest way to use Llama and GPT together
+- one API for text image and video models
 
 
-Такие материалы имеют высокий потенциал органического распространения.
+Advantages:
+
+- lower competition;
+- higher conversion potential;
+- users have a specific technical need.
 
 
-## 2. Таблицы и примеры увеличивают ценность страницы
-
-Страница содержит:
-
-- сравнительные таблицы;
-- описание возможностей;
-- примеры использования API;
-- практические рекомендации.
+# Why the Article Can Attract Traffic
 
 
-Это повышает:
+## 1. Comparison Content Naturally Generates Links
 
-- время нахождения пользователя на странице;
-- глубину просмотра;
-- вероятность взаимодействия.
+Articles in the "A vs B" format are frequently referenced by:
+
+- developers choosing technologies;
+- technical bloggers;
+- AI communities and forums.
 
 
-## 3. Коммерческий намерения
+Such content has strong potential for organic sharing and backlinks.
 
-Пользователь, который ищет:
+
+## 2. Tables and Examples Increase Content Value
+
+The page includes:
+
+- provider comparison tables;
+- feature analysis;
+- API examples;
+- practical recommendations.
+
+
+This improves:
+
+- time on page;
+- content engagement;
+- user interaction.
+
+
+## 3. Commercial Search Intent
+
+Users searching:
 
 ```
 best AI API aggregator
 ```
 
-обычно уже сравнивает решения и ближе к регистрации или покупке.
+are usually closer to choosing a provider and creating an account compared to users searching general AI topics.
 
 
-# Как попасть в Google выдачу
+# How the Page Can Rank in Google
 
 
-## Структурированность
+## Structured Data
 
-Страница должна использовать:
+The page should include:
 
 - Article schema;
 - FAQPage schema;
-- структурированные таблицы сравнения.
+- structured comparison tables.
 
 
-Это помогает поисковым системам лучше понимать содержание страницы.
+This helps search engines better understand the content and increases the chance of rich results.
 
 
-## Внутренняя перелинковка
+## Internal Linking
 
-Статья должна ссылаться на:
+The article should link to:
 
-- документацию AIMLAPI;
+- AIMLAPI documentation;
 - API reference;
-- страницы моделей;
-- страницу регистрации.
+- model pages;
+- registration page.
 
 
-Это усиливает тематический авторитет сайта.
+This strengthens topical authority and improves website navigation.
 
 
-## Актуальность
-Для поддержания актуальности:
+## Freshness Signals
 
-- использовать год в заголовке (например, 2025/2026);
-- регулярно обновлять цены и возможности;
-- добавлять историю изменений.
+To maintain relevance:
 
-
-# Как попасть в ответы AI-движков (AEO)
+- include the current year in the title;
+- regularly update pricing and features;
+- maintain a changelog of important updates.
 
 
-Современные AI-системы (ChatGPT, Perplexity, Google AI Overviews) лучше работают с контентом, который:
-
-- хорошо структурирован;
-- содержит прямые ответы;
-- легко извлекается.
+# How the Page Can Appear in AI Search Results (AEO)
 
 
+Modern AI systems such as ChatGPT, Perplexity, and Google AI Overviews prefer content that is:
 
-## 1. Таблицы сравнения
-
-Структурированные таблицы помогают AI быстро извлекать:
-
-- характеристики;
-- преимущества;
-- ограничения.
+- well structured;
+- easy to extract;
+- supported by clear facts and comparisons.
 
 
-## 2. Четкие рекомендации
+## 1. Question-Based Structure
 
-Примеры:
+Examples:
 
 ```
-Выбирайте AIMLAPI, если вам нужен доступ к множеству AI-моделей через единый API.
+What is AIMLAPI?
 
-Выбирайте OpenRouter, если вам требуется специализированное решение для маршрутизации запросов между LLM-моделями.
+How does AIMLAPI compare with OpenRouter?
+
+Which AI API platform should developers choose?
 ```
 
 
-Такие выводы являются готовыми фрагментами для AI-ответов.
+Question-based sections allow AI systems to directly match content with user queries.
 
 
-## 3. Самодостаточные разделы
+## 2. Comparison Tables
 
-Каждый раздел должен отвечать на один конкретный вопрос.
+Structured tables help AI systems quickly extract:
 
-Это позволяет AI использовать отдельные части статьи без потери контекста.
-
-
-# 4. Метрики успеха
-
-
-## SEO метрики
+- features;
+- advantages;
+- limitations;
+- differences between platforms.
 
 
-| Метрика | Что показывает |
+## 3. Clear Recommendations
+
+Examples:
+
+```
+Choose AIMLAPI if you need access to multiple AI models through a single API.
+
+Choose OpenRouter if you need a specialized LLM routing solution.
+```
+
+
+These statements provide clear answer fragments that can be reused in AI-generated responses.
+
+
+## 4. Self-contained Sections
+
+Each section should answer one specific question.
+
+This allows AI systems to extract individual answers without losing context.
+
+
+# 3. Success Metrics
+
+
+## SEO Metrics
+
+
+| Metric | Purpose |
 |---|---|
-| Позиции Google по целевым запросам | Рост поисковой видимости |
-| Органический трафик | Реальный интерес пользователей |
-| Количество referring domains | Авторитет и ссылочный профиль |
-| CTR в поиске | Эффективность сниппета |
+| Google rankings for target queries | Search visibility growth |
+| Organic traffic | Actual user demand |
+| Number of referring domains | Authority and backlink growth |
+| Search CTR | Effectiveness of titles and snippets |
 
 
-## AEO метрики
+## AEO Metrics
 
 
-| Метрика | Что показывает |
+| Metric | Purpose |
 |---|---|
-| Появление в Google AI Overviews | Видимость в AI-поиске |
-| Упоминание AIMLAPI в ChatGPT/Perplexity ответах | Присутствие бренда в AI-ответах |
+| Appearances in Google AI Overviews | Visibility in AI search |
+| AIMLAPI mentions in ChatGPT/Perplexity answers | Brand presence in AI-generated responses |
 
 
-## Engagement метрики
+## Engagement Metrics
 
 
-| Метрика | Что показывает |
+| Metric | Purpose |
 |---|---|
-| Time on page | Качество контента |
-| Scroll depth | Насколько пользователь изучает страницу |
-| Interaction rate | Вовлеченность |
+| Time on page | Content quality |
+| Scroll depth | User engagement |
+| Interaction rate | Page usefulness |
 
 
-## Бизнес метрики
+## Business Metrics
 
 
-Главная бизнес-метрика:
+The primary business metric:
+
+**Number of activated API keys generated from the article.**
 
 
-**Количество активированных API-ключей, полученных через статью.**
+SEO rankings and traffic are intermediate indicators.
 
-
-SEO-позиции и количество посетителей являются промежуточными показателями.
-
-Главная цепочка ценности:
+The main conversion funnel:
 
 
 ```
-Органический трафик
+Organic traffic
 
 ↓
 
-Регистрация пользователя
+User registration
 
 ↓
 
-Создание API key
+API key creation
 
 ↓
 
-Использование AIMLAPI
+AIMLAPI usage
 ```
 
 
-# Финальный KPI
+# Final KPI
 
 
-Основной KPI:
+Primary KPI:
 
-> Количество пользователей AIMLAPI, которые создали и активировали API-ключ после перехода со статьи.
-
-
-Дополнительный стратегический KPI:
-
-> Частота упоминания AIMLAPI в AI-ответах по запросам типа "best AI API aggregator".
+> Number of AIMLAPI users who create and activate an API key after visiting the article.
 
 
-# Заключение
+Secondary strategic KPI:
 
-Стратегия объединяет:
-
-- собственный контент-маркетинг;
-- SEO оптимизацию;
-- работу с developer communities;
-- принципы AEO.
+> Frequency of AIMLAPI mentions in AI-generated answers for queries such as "best AI API aggregator".
 
 
-Цель — не только получить позиции в поисковой выдаче, но и сделать AIMLAPI источником, который AI-системы будут использовать при ответах на вопросы о выборе AI API платформ.
+# Conclusion
+
+This strategy combines:
+
+- owned content marketing;
+- SEO optimization;
+- developer community engagement;
+- AEO principles.
+
+
+The goal is not only to achieve higher search rankings but also to make AIMLAPI a trusted source that AI systems reference when answering questions about AI API platforms.
